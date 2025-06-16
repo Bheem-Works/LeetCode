@@ -25,4 +25,3 @@ var once = function(fn) {
 console.log(onceFn(1, 2, 8)); // false
 console.log(onceFn(5, 5, 5)); // false
 
-
